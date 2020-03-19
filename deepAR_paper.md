@@ -34,7 +34,7 @@ proportional to v factor
 4.2 Plausible preidction interval learned from data, showing non-linear uncertainty.
 
 ##### 6. Supplementary Materials
-rho-risk metric: quantile loss is good for noise is not gaussian.  
+rho-risk metric (quantile loss): quantile loss is good for noise when it is not gaussian.  
 "Quantile loss functions turn out to be useful when we are interested in 
 predicting an interval instead of only point predictions. Prediction interval from least square 
 regression is based on an assumption that residuals (y — y_hat) have constant variance across 
